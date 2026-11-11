@@ -1,0 +1,7 @@
+{
+  "version": "0.1.1",
+  "url": "https://github.com/MisArcas/mis-arcas-updates/releases/download/v0.1.1/web-0.1.1.zip",
+  "sha256": "25a8564ce4696a90b8d7735b9843dbc046ca2013322872ebf95d3fae69e6ce70",
+  "notes": "Versión inicial: menú principal, módulo Casas, escudo de la bolsa de monedas y actualizaciones OTA.",
+  "minNativeVersion": "0.1.1"
+}
