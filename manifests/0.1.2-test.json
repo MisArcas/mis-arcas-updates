@@ -1,0 +1,7 @@
+{
+  "version": "0.1.2-test",
+  "url": "https://github.com/MisArcas/mis-arcas-updates/releases/download/v0.1.2-test/web-0.1.2-test.zip",
+  "sha256": "7bbe693486da773ed429d62e14cfed1207894f59330a561593ca1358029339f8",
+  "notes": "Prueba OTA temporal: distintivo 2 rojo en el menú principal.",
+  "minNativeVersion": "0.1.1"
+}
