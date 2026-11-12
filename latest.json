@@ -1,7 +1,7 @@
 {
-  "version": "0.2.3",
-  "url": "https://github.com/MisArcas/mis-arcas-updates/releases/download/v0.2.3/web-0.2.3.zip",
-  "sha256": "28d6f18ea424791b6ee97b57e650413c401fbd08f2855581274ab9f94b568a4d",
-  "notes": "Barra de cuotas más clara: las pagadas en verde, la cuota donde está la rueda en ámbar (también la 1), las que vas a pagar rayadas en verde y las vencidas en rojo.",
+  "version": "0.2.4",
+  "url": "https://github.com/MisArcas/mis-arcas-updates/releases/download/v0.2.4/web-0.2.4.zip",
+  "sha256": "50f1a11aa39fdebbead43ce5edc9124b42337b3b4cad77f36354d913d17f7bd2",
+  "notes": "Dentro de cada Casa ahora se ve solo el Tesoro. Con el botón de 3 líneas elegís qué mostrar: Tesoro, Arcas, Cuotas y pagos futuros o Movimientos; ahí también está «Editar Casa».",
   "minNativeVersion": "0.1.1"
 }
