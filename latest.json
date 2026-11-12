@@ -1,7 +1,7 @@
 {
-  "version": "0.4.0",
-  "url": "https://github.com/MisArcas/mis-arcas-updates/releases/download/v0.4.0/web-0.4.0.zip",
-  "sha256": "37038d18d20f2d2cbd852513269d16e280819e29b6b7af56ccf96fcb04a1abc9",
-  "notes": "Casas receptoras (solo deudas y pagos) y «A cargo de» otra Casa en gastos, cuotas y transferencias.",
+  "version": "0.5.0",
+  "url": "https://github.com/MisArcas/mis-arcas-updates/releases/download/v0.5.0/web-0.5.0.zip",
+  "sha256": "7052f0d3ad4ac2ae1ab65f05408cd0d9ebabcdb80f9adf015ee8e7e38f0b8d55",
+  "notes": "Tarjetas de débito y crédito, Pago con tarjeta en cuotas y pago de resúmenes.",
   "minNativeVersion": "0.1.1"
 }
