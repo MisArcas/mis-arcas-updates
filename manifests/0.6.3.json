@@ -1,0 +1,7 @@
+{
+  "version": "0.6.3",
+  "url": "https://github.com/MisArcas/mis-arcas-updates/releases/download/v0.6.3/web-0.6.3.zip",
+  "sha256": "0c2fa2907657f89939875a79027925a3d397bc55f3e14f17b2dd35eead978e00",
+  "notes": "Pago futuro como opción propia, igual que el cobro futuro. Deslizá el balance para ver otros meses: lo que pasó y la proyección de los que vienen, con pagos y cobros futuros.",
+  "minNativeVersion": "0.1.1"
+}
