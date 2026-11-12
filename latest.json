@@ -1,7 +1,7 @@
 {
-  "version": "0.6.0",
-  "url": "https://github.com/MisArcas/mis-arcas-updates/releases/download/v0.6.0/web-0.6.0.zip",
-  "sha256": "e6fb0013bd1a62fbe0282bb9602a265b03ea5d5643be8c93ff15b8a0ba825535",
-  "notes": "Balance del mes: hoy, a cobrar, a pagar y proyectado, con alerta si un arca queda en rojo. Fijos que se confirman con el monto real. Lo que ya pasó, plegable.",
+  "version": "0.6.1",
+  "url": "https://github.com/MisArcas/mis-arcas-updates/releases/download/v0.6.1/web-0.6.1.zip",
+  "sha256": "7ea7e1c18f45d4db504b488248f763bc189530eb8fcbcdb013a4d9bbd4ceb877",
+  "notes": "El resumen se paga siempre completo, sin mínimo ni pago parcial. Las cuotas con tarjeta avanzan y terminan solas. Casas receptoras con una sola arca general; cobros y pagos al arca principal.",
   "minNativeVersion": "0.1.1"
 }
