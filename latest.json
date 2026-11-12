@@ -1,7 +1,7 @@
 {
-  "version": "0.3.0",
-  "url": "https://github.com/MisArcas/mis-arcas-updates/releases/download/v0.3.0/web-0.3.0.zip",
-  "sha256": "1f822841f3db3ed466cd39ab0f659e14ca44c7d72e01230cc71020d36fc9b39c",
-  "notes": "Arcas con saldo bajo el Tesoro, ajuste de saldo sin movimiento y desplegables con «Otro...».",
+  "version": "0.4.0",
+  "url": "https://github.com/MisArcas/mis-arcas-updates/releases/download/v0.4.0/web-0.4.0.zip",
+  "sha256": "37038d18d20f2d2cbd852513269d16e280819e29b6b7af56ccf96fcb04a1abc9",
+  "notes": "Casas receptoras (solo deudas y pagos) y «A cargo de» otra Casa en gastos, cuotas y transferencias.",
   "minNativeVersion": "0.1.1"
 }
