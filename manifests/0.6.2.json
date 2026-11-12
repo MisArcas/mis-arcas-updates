@@ -1,0 +1,7 @@
+{
+  "version": "0.6.2",
+  "url": "https://github.com/MisArcas/mis-arcas-updates/releases/download/v0.6.2/web-0.6.2.zip",
+  "sha256": "8daf212e7a4b76dad21e9a75a2265b03bb4b1270f2a8a34673864f77a457e30e",
+  "notes": "Cuotas: primero elegís la cantidad y el valor de cada cuota; el total financiado se calcula solo. Nuevo: cobros futuros, con «Confirmar cobro» por el monto real.",
+  "minNativeVersion": "0.1.1"
+}
