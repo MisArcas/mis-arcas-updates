@@ -1,0 +1,7 @@
+{
+  "version": "0.3.0",
+  "url": "https://github.com/MisArcas/mis-arcas-updates/releases/download/v0.3.0/web-0.3.0.zip",
+  "sha256": "1f822841f3db3ed466cd39ab0f659e14ca44c7d72e01230cc71020d36fc9b39c",
+  "notes": "Arcas con saldo bajo el Tesoro, ajuste de saldo sin movimiento y desplegables con «Otro...».",
+  "minNativeVersion": "0.1.1"
+}
