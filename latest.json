@@ -1,7 +1,7 @@
 {
-  "version": "0.2.1",
-  "url": "https://github.com/MisArcas/mis-arcas-updates/releases/download/v0.2.1/web-0.2.1.zip",
-  "sha256": "2c3c77f19acd0b46ea3e7c9afd343b62afd44a6f01d5ccc9219ecbeb4fe0da8e",
-  "notes": "Tambor de cuotas nuevo: un prisma horizontal que se ve por una ventana, con una cuota por cara, que se acomoda solo al soltarlo y vibra en cada cuota. Cada plan muestra su tambor directo en «Cuotas y pagos futuros». El aviso «Anotado en el libro» ya no tapa el botón +.",
+  "version": "0.2.2",
+  "url": "https://github.com/MisArcas/mis-arcas-updates/releases/download/v0.2.2/web-0.2.2.zip",
+  "sha256": "b8da77d7dd7ed1c063748d38a8c7d61bbc2da76f6a54e9686d142a2983a5618f",
+  "notes": "Rueda de cuotas estilo candado: en la rendija solo se ve el número, con una línea al centro y los rótulos «Vencida», «Cuota N°:» y «Próxima». Arriba ves cuánto pagaste y cuánto te queda; abajo, el detalle de la cuota y una barra con todas. Un solo botón dice qué vas a pagar o deshacer, y después del pago podés deshacerlo. Al crear un gasto en cuotas, la cantidad (hasta 24) se elige con la rueda.",
   "minNativeVersion": "0.1.1"
 }
