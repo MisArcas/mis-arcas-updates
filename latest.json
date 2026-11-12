@@ -1,7 +1,7 @@
 {
-  "version": "0.5.0",
-  "url": "https://github.com/MisArcas/mis-arcas-updates/releases/download/v0.5.0/web-0.5.0.zip",
-  "sha256": "7052f0d3ad4ac2ae1ab65f05408cd0d9ebabcdb80f9adf015ee8e7e38f0b8d55",
-  "notes": "Tarjetas de débito y crédito, Pago con tarjeta en cuotas y pago de resúmenes.",
+  "version": "0.6.0",
+  "url": "https://github.com/MisArcas/mis-arcas-updates/releases/download/v0.6.0/web-0.6.0.zip",
+  "sha256": "e6fb0013bd1a62fbe0282bb9602a265b03ea5d5643be8c93ff15b8a0ba825535",
+  "notes": "Balance del mes: hoy, a cobrar, a pagar y proyectado, con alerta si un arca queda en rojo. Fijos que se confirman con el monto real. Lo que ya pasó, plegable.",
   "minNativeVersion": "0.1.1"
 }
