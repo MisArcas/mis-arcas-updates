@@ -1,7 +1,7 @@
 {
-  "version": "0.1.2",
-  "url": "https://github.com/MisArcas/mis-arcas-updates/releases/download/v0.1.2/web-0.1.2.zip",
-  "sha256": "0e3c8f22f372ce9b69d96e3434a4ffcfcb1786d63ddcf65bcd5a55130bd23e52",
-  "notes": "Optimización de rendimiento y escudo nuevo",
+  "version": "0.2.0",
+  "url": "https://github.com/MisArcas/mis-arcas-updates/releases/download/v0.2.0/web-0.2.0.zip",
+  "sha256": "a37af519b09ea70c18a04d0a58ef2db2c1100168eee4cf20956b6c76eef59dbd",
+  "notes": "Libro contable por Casa: ingresos, gastos, transferencias, cuotas con dial y resumen del mes. Menú Arcas renovado.",
   "minNativeVersion": "0.1.1"
 }
