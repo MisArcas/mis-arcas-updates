@@ -1,0 +1,7 @@
+{
+  "version": "0.11.1",
+  "url": "https://github.com/MisArcas/mis-arcas-updates/releases/download/v0.11.1/web-0.11.1.zip",
+  "sha256": "e6c84998d4005f68c56339bc64cf3ecce468e0b00d16fa2f81cfbd9581e9d304",
+  "notes": "Versión web (misarcas.github.io), textos de cifrado más claros",
+  "minNativeVersion": "0.1.1"
+}
