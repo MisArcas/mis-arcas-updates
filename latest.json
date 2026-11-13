@@ -1,7 +1,7 @@
 {
-  "version": "0.8.1",
-  "url": "https://github.com/MisArcas/mis-arcas-updates/releases/download/v0.8.1/web-0.8.1.zip",
-  "sha256": "2f8b95a2541101412012d95a82da6ded4ef7c3cbe28791ceb407531e53d74a34",
-  "notes": "Casa más limpia: movimientos recientes en la vista principal; Arcas, Tarjetas y Cuentas en el menú compacto",
+  "version": "0.9.0",
+  "url": "https://github.com/MisArcas/mis-arcas-updates/releases/download/v0.9.0/web-0.9.0.zip",
+  "sha256": "08e78f70fbba3167aca9fd0d24f19f61d0fd99a89b3d28b1757e6506090c30da",
+  "notes": "Estilo: 7 temas completos con vista previa, tamaño de letra e intensidad de texturas",
   "minNativeVersion": "0.1.1"
 }
