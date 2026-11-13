@@ -1,0 +1,7 @@
+{
+  "version": "0.18.0",
+  "url": "https://github.com/MisArcas/mis-arcas-updates/releases/download/v0.18.0/web-0.18.0.zip",
+  "sha256": "028f99d51d50162bf32bdf958cc10ceabc3f3897b21d120fa0e3ecb8d256fc22",
+  "notes": "Intenciones en el Egreso y el Ingreso: se elige «¿Qué pasó?» en vez de ¿Cuándo? × ¿Con quién?. El menú + sigue con Egreso e Ingreso separados; adentro el encabezado dice Nuevo ingreso o Nuevo egreso, con un «cambiar» por si te equivocaste. Me deben y Me prestaron son distintas. Abajo, una frase y qué va a pasar (arca, proyección, deuda, vínculo).",
+  "minNativeVersion": "0.1.1"
+}
