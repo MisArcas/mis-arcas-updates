@@ -1,7 +1,7 @@
 {
-  "version": "0.8.0",
-  "url": "https://github.com/MisArcas/mis-arcas-updates/releases/download/v0.8.0/web-0.8.0.zip",
-  "sha256": "f8aed6be491769c05ca3c3c21b06a4cbc9e40d77a66d0e63f07d9b2c843dbd05",
-  "notes": "Carga unificada: Egreso, Ingreso y Mover entre mis arcas; cuándo, con quién y medio",
+  "version": "0.8.1",
+  "url": "https://github.com/MisArcas/mis-arcas-updates/releases/download/v0.8.1/web-0.8.1.zip",
+  "sha256": "2f8b95a2541101412012d95a82da6ded4ef7c3cbe28791ceb407531e53d74a34",
+  "notes": "Casa más limpia: movimientos recientes en la vista principal; Arcas, Tarjetas y Cuentas en el menú compacto",
   "minNativeVersion": "0.1.1"
 }
