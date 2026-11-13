@@ -1,7 +1,7 @@
 {
-  "version": "0.15.0",
-  "url": "https://github.com/MisArcas/mis-arcas-updates/releases/download/v0.15.0/web-0.15.0.zip",
-  "sha256": "7b6515653bd9a3ddd4e0e31bb41e37078436a9972acf906caeec9459b4819be6",
-  "notes": "Nuevo y opcional: Cuenta y dispositivos (en Candado). Activá la cuenta y sumá tu PC u otro celular escaneando un QR; tus datos siguen solo en cada dispositivo.",
+  "version": "0.16.0",
+  "url": "https://github.com/MisArcas/mis-arcas-updates/releases/download/v0.16.0/web-0.16.0.zip",
+  "sha256": "24dd2200aec398de3b6f5385a89d1d9942a19a5fcd03a4cc374e3e8f9b0698f2",
+  "notes": "Vincular Casas entre apps: link o QR para unir una Casa con la app de otra persona; deudas, pagos, cambios y repartos llegan como avisos para aceptar o rechazar (cifrado de punta a punta)",
   "minNativeVersion": "0.1.1"
 }
