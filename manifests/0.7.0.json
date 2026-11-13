@@ -1,0 +1,7 @@
+{
+  "version": "0.7.0",
+  "url": "https://github.com/MisArcas/mis-arcas-updates/releases/download/v0.7.0/web-0.7.0.zip",
+  "sha256": "14a749fb2131f67fb6576f8499551d5fc940229160b5c1c2da183067a9fb996a",
+  "notes": "Candado con PIN (huella con el APK 0.7.0), datos cifrados en el teléfono, respaldo cifrado e Importar resumen (PDF del banco, leído en el teléfono).",
+  "minNativeVersion": "0.1.1"
+}

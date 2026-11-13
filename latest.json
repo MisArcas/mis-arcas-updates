@@ -1,7 +1,7 @@
 {
-  "version": "0.6.3",
-  "url": "https://github.com/MisArcas/mis-arcas-updates/releases/download/v0.6.3/web-0.6.3.zip",
-  "sha256": "0c2fa2907657f89939875a79027925a3d397bc55f3e14f17b2dd35eead978e00",
-  "notes": "Pago futuro como opción propia, igual que el cobro futuro. Deslizá el balance para ver otros meses: lo que pasó y la proyección de los que vienen, con pagos y cobros futuros.",
+  "version": "0.7.0",
+  "url": "https://github.com/MisArcas/mis-arcas-updates/releases/download/v0.7.0/web-0.7.0.zip",
+  "sha256": "14a749fb2131f67fb6576f8499551d5fc940229160b5c1c2da183067a9fb996a",
+  "notes": "Candado con PIN (huella con el APK 0.7.0), datos cifrados en el teléfono, respaldo cifrado e Importar resumen (PDF del banco, leído en el teléfono).",
   "minNativeVersion": "0.1.1"
 }
