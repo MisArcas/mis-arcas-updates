@@ -1,7 +1,7 @@
 {
-  "version": "0.10.0",
-  "url": "https://github.com/MisArcas/mis-arcas-updates/releases/download/v0.10.0/web-0.10.0.zip",
-  "sha256": "24cb093302d2831b040be5e5b5e40dd9450409a54b457c60176acc399cd3fc80",
-  "notes": "Reparto: banquetes entre Casas y Personas, con gráficos, cuentas claras y cierre contable",
+  "version": "0.11.0",
+  "url": "https://github.com/MisArcas/mis-arcas-updates/releases/download/v0.11.0/web-0.11.0.zip",
+  "sha256": "441dab161ff74a52b1fd6d9725d822f7ff342875689eae028f1670a7a36c8087",
+  "notes": "Estilos a medida por tema (colores, letras y tamaño con control de contraste) y mes a mes en Casas receptoras",
   "minNativeVersion": "0.1.1"
 }
