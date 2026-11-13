@@ -1,0 +1,7 @@
+{
+  "version": "0.15.0",
+  "url": "https://github.com/MisArcas/mis-arcas-updates/releases/download/v0.15.0/web-0.15.0.zip",
+  "sha256": "7b6515653bd9a3ddd4e0e31bb41e37078436a9972acf906caeec9459b4819be6",
+  "notes": "Nuevo y opcional: Cuenta y dispositivos (en Candado). Activá la cuenta y sumá tu PC u otro celular escaneando un QR; tus datos siguen solo en cada dispositivo.",
+  "minNativeVersion": "0.1.1"
+}
