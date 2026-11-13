@@ -1,0 +1,7 @@
+{
+  "version": "0.17.0",
+  "url": "https://github.com/MisArcas/mis-arcas-updates/releases/download/v0.17.0/web-0.17.0.zip",
+  "sha256": "470b7fa5169bc719f66df38c6106cfae46e9751faac32362083e8a1e5f3f4b4c",
+  "notes": "Conexiones en un solo lugar (Mis dispositivos, Vincular con otra persona, Escanear o pegar código, Avisos). Dividir entre Casas en cualquier Egreso o Ingreso (iguales, montos o %; en cuotas, por cuota). Sincronización opcional entre tus dispositivos.",
+  "minNativeVersion": "0.1.1"
+}

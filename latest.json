@@ -1,7 +1,7 @@
 {
-  "version": "0.16.1",
-  "url": "https://github.com/MisArcas/mis-arcas-updates/releases/download/v0.16.1/web-0.16.1.zip",
-  "sha256": "9d0dcab0f7da51d73461943a328a1c0be7ef07d2c6c82b4079a77818faf93c6b",
-  "notes": "Vincular con otra app ahora está en el menú de la esquina del inicio y en Arcas",
+  "version": "0.17.0",
+  "url": "https://github.com/MisArcas/mis-arcas-updates/releases/download/v0.17.0/web-0.17.0.zip",
+  "sha256": "470b7fa5169bc719f66df38c6106cfae46e9751faac32362083e8a1e5f3f4b4c",
+  "notes": "Conexiones en un solo lugar (Mis dispositivos, Vincular con otra persona, Escanear o pegar código, Avisos). Dividir entre Casas en cualquier Egreso o Ingreso (iguales, montos o %; en cuotas, por cuota). Sincronización opcional entre tus dispositivos.",
   "minNativeVersion": "0.1.1"
 }
