@@ -1,0 +1,7 @@
+{
+  "version": "0.16.1",
+  "url": "https://github.com/MisArcas/mis-arcas-updates/releases/download/v0.16.1/web-0.16.1.zip",
+  "sha256": "9d0dcab0f7da51d73461943a328a1c0be7ef07d2c6c82b4079a77818faf93c6b",
+  "notes": "Vincular con otra app ahora está en el menú de la esquina del inicio y en Arcas",
+  "minNativeVersion": "0.1.1"
+}

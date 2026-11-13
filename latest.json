@@ -1,7 +1,7 @@
 {
-  "version": "0.16.0",
-  "url": "https://github.com/MisArcas/mis-arcas-updates/releases/download/v0.16.0/web-0.16.0.zip",
-  "sha256": "24dd2200aec398de3b6f5385a89d1d9942a19a5fcd03a4cc374e3e8f9b0698f2",
-  "notes": "Vincular Casas entre apps: link o QR para unir una Casa con la app de otra persona; deudas, pagos, cambios y repartos llegan como avisos para aceptar o rechazar (cifrado de punta a punta)",
+  "version": "0.16.1",
+  "url": "https://github.com/MisArcas/mis-arcas-updates/releases/download/v0.16.1/web-0.16.1.zip",
+  "sha256": "9d0dcab0f7da51d73461943a328a1c0be7ef07d2c6c82b4079a77818faf93c6b",
+  "notes": "Vincular con otra app ahora está en el menú de la esquina del inicio y en Arcas",
   "minNativeVersion": "0.1.1"
 }
