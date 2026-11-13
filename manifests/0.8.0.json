@@ -1,0 +1,7 @@
+{
+  "version": "0.8.0",
+  "url": "https://github.com/MisArcas/mis-arcas-updates/releases/download/v0.8.0/web-0.8.0.zip",
+  "sha256": "f8aed6be491769c05ca3c3c21b06a4cbc9e40d77a66d0e63f07d9b2c843dbd05",
+  "notes": "Carga unificada: Egreso, Ingreso y Mover entre mis arcas; cuándo, con quién y medio",
+  "minNativeVersion": "0.1.1"
+}

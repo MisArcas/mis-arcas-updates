@@ -1,7 +1,7 @@
 {
-  "version": "0.7.0",
-  "url": "https://github.com/MisArcas/mis-arcas-updates/releases/download/v0.7.0/web-0.7.0.zip",
-  "sha256": "14a749fb2131f67fb6576f8499551d5fc940229160b5c1c2da183067a9fb996a",
-  "notes": "Candado con PIN (huella con el APK 0.7.0), datos cifrados en el teléfono, respaldo cifrado e Importar resumen (PDF del banco, leído en el teléfono).",
+  "version": "0.8.0",
+  "url": "https://github.com/MisArcas/mis-arcas-updates/releases/download/v0.8.0/web-0.8.0.zip",
+  "sha256": "f8aed6be491769c05ca3c3c21b06a4cbc9e40d77a66d0e63f07d9b2c843dbd05",
+  "notes": "Carga unificada: Egreso, Ingreso y Mover entre mis arcas; cuándo, con quién y medio",
   "minNativeVersion": "0.1.1"
 }
