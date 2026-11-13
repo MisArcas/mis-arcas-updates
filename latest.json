@@ -1,7 +1,7 @@
 {
-  "version": "0.12.0",
-  "url": "https://github.com/MisArcas/mis-arcas-updates/releases/download/v0.12.0/web-0.12.0.zip",
-  "sha256": "7e25889ed38daa142c9aacc5a30c96fe0b73c73fe0d14754ef388ad0ac7f3b9f",
-  "notes": "PIN con candado de 6 ruedas (los PIN de siempre siguen abriendo)",
+  "version": "0.13.0",
+  "url": "https://github.com/MisArcas/mis-arcas-updates/releases/download/v0.13.0/web-0.13.0.zip",
+  "sha256": "8585779cdb1141ac0a8c3a7383c1d2aa20f8e9d395c9f49b928018772dc0db12",
+  "notes": "Reparto: elegí quién pagó la cuenta (su parte queda cubierta), debajo quiénes le deben y cuánto, y el total que falta aportar se actualiza a medida que cada uno paga. Pagaron varios queda como opción avanzada.",
   "minNativeVersion": "0.1.1"
 }
