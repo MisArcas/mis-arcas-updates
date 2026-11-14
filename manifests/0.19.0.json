@@ -1,0 +1,7 @@
+{
+  "version": "0.19.0",
+  "url": "https://github.com/MisArcas/mis-arcas-updates/releases/download/v0.19.0/web-0.19.0.zip",
+  "sha256": "b8c1424db985253869a5ae53befd5b436262de2568cd5a3489680bec1f0a1518",
+  "notes": "Barra de secciones en la Casa (Tesoro, Movimientos, Cuentas y Más). En la computadora el marco es más ancho y el menú queda a la izquierda. Los fijos del mes también aparecen en Cuotas y futuros. En ¿Qué pasó? las opciones van agrupadas y los dos Cambiar se distinguen. El + ya no tapa el último monto; A cobrar agrupa por Casa; la fecha de un rechazo va en su línea; en crédito el monto va antes de la rueda.",
+  "minNativeVersion": "0.1.1"
+}
