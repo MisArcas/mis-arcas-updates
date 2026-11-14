@@ -1,0 +1,7 @@
+{
+  "version": "0.18.1",
+  "url": "https://github.com/MisArcas/mis-arcas-updates/releases/download/v0.18.1/web-0.18.1.zip",
+  "sha256": "a5f3d2062d716ff5147683982d6b1238fa99e9a31f81bea983a0ffbac33cd063",
+  "notes": "Si la otra Casa rechaza una deuda, deja de contar en tu cuenta corriente, el tesoro y la proyección. El movimiento en el arca se mantiene. Queda marcada como rechazada, con la opción de dejarla como movimiento sin deuda o borrar solo la deuda. Las deudas ya rechazadas se corrigen al actualizar.",
+  "minNativeVersion": "0.1.1"
+}
