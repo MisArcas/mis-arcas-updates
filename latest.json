@@ -1,7 +1,7 @@
 {
-  "version": "0.19.0",
-  "url": "https://github.com/MisArcas/mis-arcas-updates/releases/download/v0.19.0/web-0.19.0.zip",
-  "sha256": "b8c1424db985253869a5ae53befd5b436262de2568cd5a3489680bec1f0a1518",
-  "notes": "Barra de secciones en la Casa (Tesoro, Movimientos, Cuentas y Más). En la computadora el marco es más ancho y el menú queda a la izquierda. Los fijos del mes también aparecen en Cuotas y futuros. En ¿Qué pasó? las opciones van agrupadas y los dos Cambiar se distinguen. El + ya no tapa el último monto; A cobrar agrupa por Casa; la fecha de un rechazo va en su línea; en crédito el monto va antes de la rueda.",
+  "version": "0.19.1",
+  "url": "https://github.com/MisArcas/mis-arcas-updates/releases/download/v0.19.1/web-0.19.1.zip",
+  "sha256": "90b0eca8ad7169b6b34cf1668c8b66d36ec841ad9847e667b7df6b03b5562d55",
+  "notes": "En todos los estilos, Egreso e Ingreso (y los montos, deudas, tesoro y Qué va a pasar) usan un rojo y un verde propios, nítidos sobre la textura. En Nórdico se distinguen con claridad. Si el color Principal se acerca al verde, la app aparta el de los ingresos y lo avisa. En Gótico, Nórdico y Sangre el borde de los botones recortados sigue el bisel. OTA + web, sin APK nuevo.",
   "minNativeVersion": "0.1.1"
 }
