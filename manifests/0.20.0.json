@@ -1,0 +1,7 @@
+{
+  "version": "0.20.0",
+  "url": "https://github.com/MisArcas/mis-arcas-updates/releases/download/v0.20.0/web-0.20.0.zip",
+  "sha256": "4f5e8e792083cf2c25d717f2ab9c413a6f75e27253c5546df5a7028af379e786",
+  "notes": "Una sola entrada Cargar resumen lee el PDF en el dispositivo y reconoce si es de cuenta o de tarjeta. El lector de tarjeta sirve para cualquier banco: detecta la tarjeta, no duplica un resumen ya cargado ni renglones o cuotas ya anotados, y el resumen queda a pagar hasta que pulses Pagar resumen, siempre el total. Si las líneas no cuadran, se puede confirmar igual con la diferencia a la vista. OTA + web, sin APK nuevo.",
+  "minNativeVersion": "0.1.1"
+}
