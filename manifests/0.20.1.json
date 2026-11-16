@@ -1,0 +1,7 @@
+{
+  "version": "0.20.1",
+  "url": "https://github.com/MisArcas/mis-arcas-updates/releases/download/v0.20.1/web-0.20.1.zip",
+  "sha256": "054916fa79f18b20e0722bbfb9eb1a0ad9a7b00883732daa7fc1d5a7c337a97b",
+  "notes": "Las cuotas de tarjeta (de un resumen o anotadas a mano) aparecen en Cuotas y futuros con la misma rueda. Pagar resumen desde A pagar confirma y paga ahí mismo, siempre el total. Al abrir la app se acomodan las cuotas ya cargadas, sin duplicar ni cambiar montos.",
+  "minNativeVersion": "0.1.1"
+}
