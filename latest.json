@@ -1,7 +1,7 @@
 {
-  "version": "0.21.1",
-  "url": "https://github.com/MisArcas/mis-arcas-updates/releases/download/v0.21.1/web-0.21.1.zip",
-  "sha256": "23e75ca600f9ae9340167986f6af7ea01801ca967430cc90d2f1238fc6f293d2",
-  "notes": "Al cargar un resumen se pregunta si ya lo pagaste (No, Sí todo o Sí una parte). Si el vencimiento ya pasó, se sugiere Sí, todo. El pago se anota en la fecha y el arca que indiques; las compras quedan en su fecha y no tocan el saldo. Si pagaste una parte, el resto queda a pagar. Si ya habías anotado un movimiento del mismo monto cerca del vencimiento, se ofrece vincularlo para no descontarlo dos veces. El lector de PDF prioriza el total a pagar, también lo lee en la línea de abajo, ignora un total en 0 si hay otro más creíble y toma el cierre actual con un vencimiento posterior.",
+  "version": "0.22.0",
+  "url": "https://github.com/MisArcas/mis-arcas-updates/releases/download/v0.22.0/web-0.22.0.zip",
+  "sha256": "16c037bf6f6ff4af99bf5c06c22ede57745355a62c3789523cc1896bdc0f4b54",
+  "notes": "Logo nuevo: un gráfico chico con tres barras en 3D y monedas apiladas. Se agregan los estilos suaves Arena y Niebla; el verde de ingreso y el rojo de egreso siguen bien distintos. Arena queda como estilo principal para todos, una sola vez al actualizar; después se puede cambiar. Los 7 estilos de siempre se mantienen, y también las personalizaciones.",
   "minNativeVersion": "0.1.1"
 }
