@@ -1,7 +1,7 @@
 {
-  "version": "0.22.0",
-  "url": "https://github.com/MisArcas/mis-arcas-updates/releases/download/v0.22.0/web-0.22.0.zip",
-  "sha256": "16c037bf6f6ff4af99bf5c06c22ede57745355a62c3789523cc1896bdc0f4b54",
-  "notes": "Logo nuevo: un gráfico chico con tres barras en 3D y monedas apiladas. Se agregan los estilos suaves Arena y Niebla; el verde de ingreso y el rojo de egreso siguen bien distintos. Arena queda como estilo principal para todos, una sola vez al actualizar; después se puede cambiar. Los 7 estilos de siempre se mantienen, y también las personalizaciones.",
+  "version": "0.22.1",
+  "url": "https://github.com/MisArcas/mis-arcas-updates/releases/download/v0.22.1/web-0.22.1.zip",
+  "sha256": "805eacfc6922d2ea195834e32ab40743276a2b6ac2034361b8ea98fd2e4d6d1c",
+  "notes": "En el teléfono queda una sola barra inferior, en el lugar de siempre: Tesoro, Cuotas, Tarjetas y Más. Más sigue deslizando, con snap, al panel de Movimientos, Cuentas y Arcas. El riel de escritorio no cambia.",
   "minNativeVersion": "0.1.1"
 }

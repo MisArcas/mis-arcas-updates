@@ -1,0 +1,7 @@
+{
+  "version": "0.22.1",
+  "url": "https://github.com/MisArcas/mis-arcas-updates/releases/download/v0.22.1/web-0.22.1.zip",
+  "sha256": "805eacfc6922d2ea195834e32ab40743276a2b6ac2034361b8ea98fd2e4d6d1c",
+  "notes": "En el teléfono queda una sola barra inferior, en el lugar de siempre: Tesoro, Cuotas, Tarjetas y Más. Más sigue deslizando, con snap, al panel de Movimientos, Cuentas y Arcas. El riel de escritorio no cambia.",
+  "minNativeVersion": "0.1.1"
+}
