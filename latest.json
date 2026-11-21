@@ -1,7 +1,7 @@
 {
-  "version": "0.22.1",
-  "url": "https://github.com/MisArcas/mis-arcas-updates/releases/download/v0.22.1/web-0.22.1.zip",
-  "sha256": "805eacfc6922d2ea195834e32ab40743276a2b6ac2034361b8ea98fd2e4d6d1c",
-  "notes": "En el teléfono queda una sola barra inferior, en el lugar de siempre: Tesoro, Cuotas, Tarjetas y Más. Más sigue deslizando, con snap, al panel de Movimientos, Cuentas y Arcas. El riel de escritorio no cambia.",
+  "version": "0.22.2",
+  "url": "https://github.com/MisArcas/mis-arcas-updates/releases/download/v0.22.2/web-0.22.2.zip",
+  "sha256": "36162d672033f8560c8019cb26eed28de42f661559cea97cfbe059d99afed691",
+  "notes": "Si borrabas una tarjeta y la dabas de alta de nuevo, al cargar el mismo PDF decía ya cargado aunque no quedara nada en Movimientos, en la tarjeta ni en Cuotas. Al eliminar la tarjeta se van también sus resúmenes y esas huellas; al actualizar se limpian las que hayan quedado sueltas.",
   "minNativeVersion": "0.1.1"
 }
