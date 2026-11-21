@@ -1,0 +1,7 @@
+{
+  "version": "0.21.0",
+  "url": "https://github.com/MisArcas/mis-arcas-updates/releases/download/v0.21.0/web-0.21.0.zip",
+  "sha256": "2557455544b141444866e8a52d66e8accc43ef8cf671f0f0cd1bcbae26c50982",
+  "notes": "En Cuotas y futuros, las cuotas de tarjeta van en un bloque propio, Se pagan con el resumen, con la misma rueda; no se debitan del arca. El menú inferior del teléfono queda en dos tandas (Tesoro, Cuotas, Tarjetas, y el resto detrás de una flecha, con snap). En Movimientos y en el Balance aparece el Cierre del mes anterior, calculado al vuelo. Al cargar un resumen, las compras de un pago y las cuotas nuevas se pueden dejar a cargo de otra Casa; la deuda es por lo que falta y no se duplica si la línea solo avanza o se vincula.",
+  "minNativeVersion": "0.1.1"
+}
