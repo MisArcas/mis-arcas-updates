@@ -1,0 +1,7 @@
+{
+  "version": "0.23.0",
+  "url": "https://github.com/MisArcas/mis-arcas-updates/releases/download/v0.23.0/web-0.23.0.zip",
+  "sha256": "8a4e26aec2193cbe37fa73c24f6b749726718ebebc65d194e5408df481e10476",
+  "notes": "En Cuotas y futuros hay un interruptor Lista / Proyección: cada cuota, cobro y pago futuro se reparte en sus meses, agrupado por tarjeta, con totales de A pagar, A cobrar y Neto.",
+  "minNativeVersion": "0.1.1"
+}
