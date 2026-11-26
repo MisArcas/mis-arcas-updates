@@ -1,7 +1,7 @@
 {
-  "version": "0.23.1",
-  "url": "https://github.com/MisArcas/mis-arcas-updates/releases/download/v0.23.1/web-0.23.1.zip",
-  "sha256": "261044d8f49a10a8cbff462b0a97bf8926a97fee5588525435001a0eaac24738",
-  "notes": "El actualizador busca las actualizaciones primero en la cuenta 2LGH y, si no está, en MisArcas, para que la app siga actualizándose cuando se renombre la cuenta.",
+  "version": "0.23.2",
+  "url": "https://github.com/MisArcas/mis-arcas-updates/releases/download/v0.23.2/web-0.23.2.zip",
+  "sha256": "8b2aaeb956e2abf85acd91a0aa509f2f56707ab0de0e28991b4aa746edd86dbe",
+  "notes": "El actualizador busca primero por el ID del repo, que no cambia al renombrar la cuenta, y después en 2LGH y MisArcas. El buzón también acepta la web en 2lgh.github.io.",
   "minNativeVersion": "0.1.1"
 }
